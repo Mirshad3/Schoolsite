@@ -66,19 +66,6 @@ This project is a comprehensive website for a technical college, designed to pro
 - **Management Committee**: Get to know the leadership team.
 - **About Developers**: Meet the creative minds behind the website.
 
-## College Details
-- **Address**: Bahradashi 3, Jhapa, Nepal 🏫
-
-## Contact
-
-If you have any questions, feedback, or suggestions, feel free to reach out to me at [nismsg1@gmail.com](mailto:nismsg1@gmail.com)
-
-## Developers
-
-Fell free to reach out with developers.
-
-| Developers         | Portfolio                                  | Photo |
-| ----------------- | ------------------------------------------ |-------|
-| Nishchal Acharya  | [https://nishchalacharya.com.np](https://nishchalacharya.com.np)  | <img src="https://nishchalacharya.com.np/img/hero.png" alt="Nishchal Acharya" width="100"/> |
+ 
 
 Enjoy website explore and fell free to modify this, just dive, fork and modify! 🎉
