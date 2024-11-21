@@ -1,0 +1,74 @@
+[18-Sep-2024 07:26:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gloxtech_schooldb.schoolRoutine' doesn't exist in /home/gloxtech/public_html/school/admin/changeRoutine.php:125
+Stack trace:
+#0 /home/gloxtech/public_html/school/admin/changeRoutine.php(125): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/gloxtech/public_html/school/admin/changeRoutine.php on line 125
+[18-Sep-2024 07:26:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gloxtech_schooldb.schoolRoutine' doesn't exist in /home/gloxtech/public_html/school/admin/changeRoutine.php:125
+Stack trace:
+#0 /home/gloxtech/public_html/school/admin/changeRoutine.php(125): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/gloxtech/public_html/school/admin/changeRoutine.php on line 125
+[18-Sep-2024 07:28:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gloxtech_schooldb.schoolRoutine' doesn't exist in /home/gloxtech/public_html/school/admin/changeRoutine.php:125
+Stack trace:
+#0 /home/gloxtech/public_html/school/admin/changeRoutine.php(125): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/gloxtech/public_html/school/admin/changeRoutine.php on line 125
+[18-Sep-2024 07:28:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gloxtech_schooldb.schoolRoutine' doesn't exist in /home/gloxtech/public_html/school/admin/changeRoutine.php:125
+Stack trace:
+#0 /home/gloxtech/public_html/school/admin/changeRoutine.php(125): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/gloxtech/public_html/school/admin/changeRoutine.php on line 125
+[18-Sep-2024 07:28:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gloxtech_schooldb.schoolRoutine' doesn't exist in /home/gloxtech/public_html/school/admin/changeRoutine.php:125
+Stack trace:
+#0 /home/gloxtech/public_html/school/admin/changeRoutine.php(125): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/gloxtech/public_html/school/admin/changeRoutine.php on line 125
+[18-Sep-2024 07:28:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gloxtech_schooldb.schoolRoutine' doesn't exist in /home/gloxtech/public_html/school/admin/changeRoutine.php:125
+Stack trace:
+#0 /home/gloxtech/public_html/school/admin/changeRoutine.php(125): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/gloxtech/public_html/school/admin/changeRoutine.php on line 125
+[18-Sep-2024 07:30:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gloxtech_schooldb.schoolRoutine' doesn't exist in /home/gloxtech/public_html/school/admin/changeRoutine.php:125
+Stack trace:
+#0 /home/gloxtech/public_html/school/admin/changeRoutine.php(125): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/gloxtech/public_html/school/admin/changeRoutine.php on line 125
+[18-Sep-2024 07:33:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gloxtech_schooldb.schoolRoutine' doesn't exist in /home/gloxtech/public_html/school/admin/changeRoutine.php:125
+Stack trace:
+#0 /home/gloxtech/public_html/school/admin/changeRoutine.php(125): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/gloxtech/public_html/school/admin/changeRoutine.php on line 125
+[18-Sep-2024 07:36:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gloxtech_schooldb.schoolRoutine' doesn't exist in /home/gloxtech/public_html/school/admin/changeRoutine.php:125
+Stack trace:
+#0 /home/gloxtech/public_html/school/admin/changeRoutine.php(125): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/gloxtech/public_html/school/admin/changeRoutine.php on line 125
+[29-Sep-2024 07:15:59 UTC] PHP Parse error:  Unmatched '}' in /home/gloxtech/public_html/school/admin/flash_notice.php on line 90
+[29-Sep-2024 07:16:03 UTC] PHP Parse error:  Unmatched '}' in /home/gloxtech/public_html/school/admin/flash_notice.php on line 90
+[29-Sep-2024 07:16:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gloxtech_schooldb.schoolRoutine' doesn't exist in /home/gloxtech/public_html/school/admin/changeRoutine.php:125
+Stack trace:
+#0 /home/gloxtech/public_html/school/admin/changeRoutine.php(125): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/gloxtech/public_html/school/admin/changeRoutine.php on line 125
+[29-Sep-2024 07:16:52 UTC] PHP Parse error:  Unmatched '}' in /home/gloxtech/public_html/school/admin/flash_notice.php on line 90
+[29-Sep-2024 07:26:50 UTC] PHP Parse error:  Unmatched '}' in /home/gloxtech/public_html/school/admin/flash_notice.php on line 90
+[29-Sep-2024 07:33:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gloxtech_schooldb.schoolRoutine' doesn't exist in /home/gloxtech/public_html/school/admin/changeRoutine.php:125
+Stack trace:
+#0 /home/gloxtech/public_html/school/admin/changeRoutine.php(125): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/gloxtech/public_html/school/admin/changeRoutine.php on line 125
+[29-Sep-2024 07:34:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gloxtech_schooldb.schoolRoutine' doesn't exist in /home/gloxtech/public_html/school/admin/changeRoutine.php:125
+Stack trace:
+#0 /home/gloxtech/public_html/school/admin/changeRoutine.php(125): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/gloxtech/public_html/school/admin/changeRoutine.php on line 125
+[29-Sep-2024 07:44:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gloxtech_schooldb.schoolRoutine' doesn't exist in /home/gloxtech/public_html/school/admin/changeRoutine.php:125
+Stack trace:
+#0 /home/gloxtech/public_html/school/admin/changeRoutine.php(125): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/gloxtech/public_html/school/admin/changeRoutine.php on line 125
+[29-Sep-2024 07:44:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gloxtech_schooldb.schoolRoutine' doesn't exist in /home/gloxtech/public_html/school/admin/changeRoutine.php:125
+Stack trace:
+#0 /home/gloxtech/public_html/school/admin/changeRoutine.php(125): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/gloxtech/public_html/school/admin/changeRoutine.php on line 125

@@ -1,0 +1,80 @@
+[18-Sep-2024 07:24:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gloxtech_schooldb.schoolRoutine' doesn't exist in /home/gloxtech/public_html/school/schoolroutine.php:48
+Stack trace:
+#0 /home/gloxtech/public_html/school/schoolroutine.php(48): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/gloxtech/public_html/school/schoolroutine.php on line 48
+[18-Sep-2024 07:24:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gloxtech_schooldb.schoolRoutine' doesn't exist in /home/gloxtech/public_html/school/schoolroutine.php:48
+Stack trace:
+#0 /home/gloxtech/public_html/school/schoolroutine.php(48): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/gloxtech/public_html/school/schoolroutine.php on line 48
+[18-Sep-2024 07:24:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gloxtech_schooldb.schoolRoutine' doesn't exist in /home/gloxtech/public_html/school/schoolroutine.php:48
+Stack trace:
+#0 /home/gloxtech/public_html/school/schoolroutine.php(48): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/gloxtech/public_html/school/schoolroutine.php on line 48
+[18-Sep-2024 07:24:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gloxtech_schooldb.schoolRoutine' doesn't exist in /home/gloxtech/public_html/school/schoolroutine.php:48
+Stack trace:
+#0 /home/gloxtech/public_html/school/schoolroutine.php(48): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/gloxtech/public_html/school/schoolroutine.php on line 48
+[18-Sep-2024 07:24:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gloxtech_schooldb.schoolRoutine' doesn't exist in /home/gloxtech/public_html/school/schoolroutine.php:48
+Stack trace:
+#0 /home/gloxtech/public_html/school/schoolroutine.php(48): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/gloxtech/public_html/school/schoolroutine.php on line 48
+[18-Sep-2024 07:25:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gloxtech_schooldb.schoolRoutine' doesn't exist in /home/gloxtech/public_html/school/schoolroutine.php:48
+Stack trace:
+#0 /home/gloxtech/public_html/school/schoolroutine.php(48): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/gloxtech/public_html/school/schoolroutine.php on line 48
+[18-Sep-2024 07:30:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gloxtech_schooldb.schoolRoutine' doesn't exist in /home/gloxtech/public_html/school/schoolroutine.php:48
+Stack trace:
+#0 /home/gloxtech/public_html/school/schoolroutine.php(48): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/gloxtech/public_html/school/schoolroutine.php on line 48
+[18-Sep-2024 07:37:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gloxtech_schooldb.schoolRoutine' doesn't exist in /home/gloxtech/public_html/school/schoolroutine.php:48
+Stack trace:
+#0 /home/gloxtech/public_html/school/schoolroutine.php(48): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/gloxtech/public_html/school/schoolroutine.php on line 48
+[18-Sep-2024 07:38:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gloxtech_schooldb.schoolRoutine' doesn't exist in /home/gloxtech/public_html/school/schoolroutine.php:48
+Stack trace:
+#0 /home/gloxtech/public_html/school/schoolroutine.php(48): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/gloxtech/public_html/school/schoolroutine.php on line 48
+[29-Sep-2024 07:36:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gloxtech_schooldb.schoolRoutine' doesn't exist in /home/gloxtech/public_html/school/schoolroutine.php:48
+Stack trace:
+#0 /home/gloxtech/public_html/school/schoolroutine.php(48): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/gloxtech/public_html/school/schoolroutine.php on line 48
+[29-Sep-2024 07:38:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gloxtech_schooldb.schoolRoutine' doesn't exist in /home/gloxtech/public_html/school/schoolroutine.php:48
+Stack trace:
+#0 /home/gloxtech/public_html/school/schoolroutine.php(48): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/gloxtech/public_html/school/schoolroutine.php on line 48
+[29-Sep-2024 07:38:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gloxtech_schooldb.schoolRoutine' doesn't exist in /home/gloxtech/public_html/school/schoolroutine.php:48
+Stack trace:
+#0 /home/gloxtech/public_html/school/schoolroutine.php(48): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/gloxtech/public_html/school/schoolroutine.php on line 48
+[29-Sep-2024 07:38:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gloxtech_schooldb.schoolRoutine' doesn't exist in /home/gloxtech/public_html/school/schoolroutine.php:48
+Stack trace:
+#0 /home/gloxtech/public_html/school/schoolroutine.php(48): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/gloxtech/public_html/school/schoolroutine.php on line 48
+[29-Sep-2024 07:39:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gloxtech_schooldb.schoolRoutine' doesn't exist in /home/gloxtech/public_html/school/schoolroutine.php:48
+Stack trace:
+#0 /home/gloxtech/public_html/school/schoolroutine.php(48): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/gloxtech/public_html/school/schoolroutine.php on line 48
+[29-Sep-2024 07:42:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gloxtech_schooldb.schoolRoutine' doesn't exist in /home/gloxtech/public_html/school/schoolroutine.php:48
+Stack trace:
+#0 /home/gloxtech/public_html/school/schoolroutine.php(48): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/gloxtech/public_html/school/schoolroutine.php on line 48
+[29-Sep-2024 07:47:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gloxtech_schooldb.schoolRoutine' doesn't exist in /home/gloxtech/public_html/school/schoolroutine.php:48
+Stack trace:
+#0 /home/gloxtech/public_html/school/schoolroutine.php(48): mysqli_query(Object(mysqli), 'SELECT * FROM `...')
+#1 {main}
+  thrown in /home/gloxtech/public_html/school/schoolroutine.php on line 48
